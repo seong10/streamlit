@@ -40,7 +40,8 @@ def main():
         print( current_time.isoformat().replace(':', '_') ) 
         
         new_filename = current_time.isoformat().replace(':', '_') +'.jpg'
-                                                # : 가 들어가면 에러남
+                                                # : 가 
+                                                # 들어가면 에러남
         
         upload_file.name = new_filename
         save_uploaded_file('temp', upload_file)

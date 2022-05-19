@@ -12,5 +12,6 @@ def main() :
 if __name__ == '__main__' :
     main()
 
-# 터미넬에서 +를 누르고 코멘드 프롬프트로 해야 아나콘다가 깔린 프롬프트
+# 터미넬에서 +를 누르고 Command prompt 프롬프트로 해야
+# 아나콘다가 깔린 프롬프트이다
 # cmd 터미널에 streamlit run (파일이름.py)

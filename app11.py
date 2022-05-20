@@ -4,7 +4,6 @@ import pandas as pd
 import altair as alt
 
 import plotly.express as px
-import plotly.express as px
 
 def main() :
     # 스트림릿에서 제공해주는 차트
